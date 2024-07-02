@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=47bee8&size=40&center=false&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Gabriel+Santos,;tenho+27+anos,;e+esse+é+o+meu+perfil+do+GitHub!!)](https://git.io/typing-svg)
 
 <div align="left">  
-  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=alanMedeiros98&show_icons=true&count_private=true&hide_border=false&title_color=47bee8&icon_color=47bee8&text_color=C0C0C0&bg_color=111f24" alt="Gabriel Santos github stats" /> 
+  <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=gscode96&show_icons=true&count_private=true&hide_border=false&title_color=47bee8&icon_color=47bee8&text_color=C0C0C0&bg_color=111f24" alt="Gabriel Santos github stats" /> 
   <img width="41%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gscode96&layout=compact&hide_border=false&title_color=47bee8&text_color=47bee8&bg_color=111f24" />
 </div>
 
